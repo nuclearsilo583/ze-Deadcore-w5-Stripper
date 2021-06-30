@@ -17,8 +17,7 @@ Of course you know, s7f2 version has a lot of extra stages(Champion, Knightmare,
 6. Type "setpos -14693 -14935 -16151" in your CLIENT console. It will teleport you to adminroom. Then you will see 7 buttons, first 3 buttons can skip each stages, 4th button will turn on EXTREME, 5th button will select CHAMPION and 6th button will select an "Original Stage".
 7. Enjoy extra stages! Have fun.
 
-# History.
-
+# History
 ## Version 1.0.x
 ###### v1.0.0
 Adding Champion-D and ???. Install this stripper, and find it yourself.
